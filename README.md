@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @QTPI880
-- 👀 I’m interested in code, games, and sailing.
+- 👋 Hi, I’m @gerhardus van biljon
+- 👀 I’m interested in coding, games, and sailing.
 - 🌱 I’m currently learning CircuitPython for Microcontrollers
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me cutiepie88969@gmail.com
+- 📫 How to reach me vanbiljongerhardus@gmail.com
 
 <!---
 QTPI880/QTPI880 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
